@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="256" cy="256" r="240" fill="#6366f1"/>
+    
+    <!-- Calculator Body -->
+    <rect x="96" y="96" width="320" height="320" rx="24" fill="white"/>
+    
+    <!-- Display -->
+    <rect x="128" y="128" width="256" height="64" rx="8" fill="#f8fafc"/>
+    
+    <!-- Buttons -->
+    <g fill="#e2e8f0">
+        <!-- Row 1 -->
+        <rect x="128" y="208" width="56" height="56" rx="8"/>
+        <rect x="200" y="208" width="56" height="56" rx="8"/>
+        <rect x="272" y="208" width="56" height="56" rx="8"/>
+        <rect x="344" y="208" width="40" height="56" rx="8"/>
+        
+        <!-- Row 2 -->
+        <rect x="128" y="280" width="56" height="56" rx="8"/>
+        <rect x="200" y="280" width="56" height="56" rx="8"/>
+        <rect x="272" y="280" width="56" height="56" rx="8"/>
+        <rect x="344" y="280" width="40" height="56" rx="8"/>
+        
+        <!-- Row 3 -->
+        <rect x="128" y="352" width="56" height="56" rx="8"/>
+        <rect x="200" y="352" width="56" height="56" rx="8"/>
+        <rect x="272" y="352" width="56" height="56" rx="8"/>
+        <rect x="344" y="352" width="40" height="56" rx="8"/>
+    </g>
+</svg> 
